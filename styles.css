@@ -1,0 +1,17 @@
+body {
+	background-color: white;
+}
+
+.row {
+	text-align: center;
+	margin-top: 200px;
+	font-family: 'Francois One', sans-serif;
+	font-size: 48px;
+	color: black;
+}
+
+.btn {
+	padding: 60px;
+	background-color: white;
+	color: #2E86C1;
+}
