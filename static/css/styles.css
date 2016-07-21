@@ -84,6 +84,32 @@ h1 {
 	text-align: center;
 }
 
+.team {
+	margin: auto;
+	list-style: none;
+	padding-top: 80px;
+	padding-bottom: 480px;
+	background-color: #AED6F1; 
+	color: #4A4A4A;
+	text-align: center;
+}
+
+.col-lg-3 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+}
+
+.col-lg-6 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+}
+
+hr.style-two {
+    border: 0;
+    height: 5px;
+    background-image: linear-gradient(to right, rgba(1, 1, 1, 1), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
 #contact {
 	margin: auto;
 	list-style: none;
@@ -91,16 +117,8 @@ h1 {
 	padding-bottom: 480px;
 	padding-left: 120px;
 	padding-right: 120px;
-	background-color: #AED6F1; 
+	background-color: #FFFFFF; 
 	color: #4A4A4A;
 	text-align: left;
 }
 
-#contact li {
-	padding-top: 24px;
-	display: inline;
-	font-size: 18px;
-	padding-left: 8px;
-	padding-right: 8px;
-
-}
