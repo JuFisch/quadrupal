@@ -122,3 +122,12 @@ hr.style-two {
 	text-align: left;
 }
 
+.footer {
+	margin: auto;
+	list-style: none;
+	padding-top: 44px;
+	padding-bottom: 44px;
+	background-color: #AED6F1; 
+	color: #4A4A4A;
+	text-align: center;
+}
